@@ -39,6 +39,8 @@ Programming languages: Java, Python, JS - syntax and basic knowledge of OOP .
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alena-Grigoreva-QA&layout=compact&theme=vision-friendly-dark)](https://github.com/Alena-Grigoreva-QA/github-readme-stats)
+
 <!--
 **Alena-Grigoreva-QA/Alena-Grigoreva-QA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
