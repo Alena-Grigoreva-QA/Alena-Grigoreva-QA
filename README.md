@@ -12,10 +12,9 @@
 -->
 
 ### :woman_technologist: About Me :
-- :telescope: I’m looking for a job as a Junior Quality Assurance Engineer.
-- :seedling: I'm looking for a remote job. 
-Experience in testing my own Android apps 1+ year. 
-Firstly done it mostly as exploratory testing, then took a 4 months course on Software Testing and completed it in March 2022.
+- :telescope: I’m looking for a remote job as a Junior Quality Assurance Engineer.
+- :seedling: Experience in testing of my own Android apps for 1+ year and a web project at Krolic.org for 2 months. 
+Firstly done it mostly as exploratory testing, then took a 4 months course on Software Testing and completed it in March 2022, got a diploma.
 Willing to get proficient in software testing.
 Interested in both manual and automation testing (java/python/js).
 Programming languages: Java, Python, JS - syntax and basic knowledge of OOP .
