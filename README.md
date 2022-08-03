@@ -2,18 +2,28 @@
   <img src="https://media.giphy.com/media/Yuvl9zDgVNCcU/giphy.gif" width="100"/>
   <p>Detecting, reporting and helping to prevent bugs</p>
 </div>
+
+<!--
 <div id="badges">
   <a href="https://www.linkedin.com/in/alena-grigoreva-qa/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"  alt="LinkedIn Badge"/>
   </a>
 </div>
+-->
 
 ### :woman_technologist: About Me :
-- :telescope: I’m looking for a job as a Junior Quality Assuarance Engineer.
-- :seedling: ...
+- :telescope: I’m looking for a job as a Junior Quality Assurance Engineer.
+- :seedling: I'm looking for a remote job. 
+Experience in testing my own Android apps 1+ year. 
+Firstly done it mostly as exploratory testing, then took a 4 months course on Software Testing and completed it in March 2022.
+Willing to get proficient in software testing.
+Interested in both manual and automation testing (java/python/js).
+Programming languages: Java, Python, JS - syntax and basic knowledge of OOP .
 - :zap: In my free time, I develop and test Android apps.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alena-grigoreva-qa/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alena-grigoreva-qa/)
+
 ---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -26,6 +36,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
 ---
 
 <!--
